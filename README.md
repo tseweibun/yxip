@@ -1,5 +1,4 @@
-2025-05更新
-每6小时自动抓取
+每3小时自动抓取
 https://cf.vvhan.com/
 https://ip.164746.xyz
 的优选ip，形成ip.txt 
